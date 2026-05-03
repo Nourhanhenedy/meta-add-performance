@@ -2,7 +2,9 @@
 
 > An interactive Power BI dashboard analyzing Facebook and Instagram ad performance across impressions, clicks, purchases, engagement, demographics, and geography.
 
-![Dashboard Preview](Meta_Ad_Performance_Analysis_4_19_2026_7_46_41_PM.png)
+
+<img width="1338" height="755" alt="Meta Ad Performance Analysis 4_19_2026 7_46_41 PM" src="https://github.com/user-attachments/assets/d9f16e89-b5de-4035-9143-2a9eaa4f0423" />
+
 
 ---
 
