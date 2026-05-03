@@ -174,19 +174,3 @@ git clone https://github.com/Nourhanhenedy/meta-ad-performance-dashboard.git
 
 ---
 
-## 👩‍💻 Author
-
-**Nourhan Henedy**
-- 🔗 [GitHub](https://github.com/Nourhanhenedy)
-- 📧 sakrnourhan9@gmail.com
-- 🎓 B.Sc. Artificial Intelligence — Kafr El-Sheikh University
-
----
-
-## 📜 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-⭐ If you found this project useful, please give it a star!
